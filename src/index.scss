@@ -1,0 +1,37 @@
+:root {
+  /* Font */
+  --font-family: 'Outfit', sans-serif;
+  --font-regular: 400;
+  --font-bold: 700;
+
+  /* Font sizes */
+  --size-x-large: 24px;
+  --size-large: 20px;
+  --size-medium: 16px;
+  --size-small: 12px;
+  --size-x-small: 8px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-primary: hsl(218, 44%, 22%);
+  --color-secondary: hsl(216, 15%, 48%);
+
+  /* Spacing scale */
+  --space-large: 20px;
+  --space-medium: 15px;
+  --space-small: 10px;
+
+  /* Border radius scale */
+  --radius-large: 12px;
+  --radius-medium: 8px;
+  --radius-small: 4px;
+
+  /* Component-specific */
+  --card-max-width: 300px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

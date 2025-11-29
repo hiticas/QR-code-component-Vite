@@ -1,7 +1,7 @@
 # Frontend Mentor - QR Code Component
 
 ## Screenshot
-![](desktop-design.jpg)
+![](preview.jpg)
 
 A simple solution to the Frontend Mentor **QR Code Component** challenge.
 
@@ -10,8 +10,9 @@ A simple solution to the Frontend Mentor **QR Code Component** challenge.
 - **Live Site:** https://qr-code-component-vite.netlify.app/
 
 ## Built With
+- Vite
 - HTML5
-- CSS (Flexbox, custom properties)
+- SCSS
 - Mobile-first workflow
 
 ## What I Learned

@@ -1,10 +1,11 @@
-import './App.css'
+import './App.scss'
+import QrCodeComponent from './components/qr-code-component/QrCodeComponent'
 
 function App() {
   return (
-    <>
-      <h1>QR code component</h1>
-    </>
+    <div className="app">
+      <QrCodeComponent />
+    </div>
   )
 }
 
