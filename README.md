@@ -1,5 +1,8 @@
 # Frontend Mentor - QR Code Component
 
+## Screenshot
+![](preview.jpg)
+
 A simple solution to the Frontend Mentor **QR Code Component** challenge.
 
 ## Live Demo
