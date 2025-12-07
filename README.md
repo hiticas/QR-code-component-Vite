@@ -1,4 +1,4 @@
-# Frontend Mentor - QR Code Component
+# QR Code Component
 
 ## Live Demo
 - **Live URL:** https://qr-code-component-vite.netlify.app/
