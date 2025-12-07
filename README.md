@@ -1,13 +1,12 @@
 # Frontend Mentor - QR Code Component
 
+## Live Demo
+- **Live URL:** https://qr-code-component-vite.netlify.app/
+
 ## Screenshot
 ![](preview.jpg)
 
 A simple solution to the Frontend Mentor **QR Code Component** challenge.
-
-## Live Demo
-- **Solution URL:** https://qr-code-component-vite.netlify.app/
-- **Live Site:** https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
 
 ## Built With
 - Vite
